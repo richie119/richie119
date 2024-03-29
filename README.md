@@ -7,6 +7,8 @@
 
 Here are some ideas to get you started:
 -->
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,9 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h1 align="center">
+Something About <a href="https://github.com/richie119">@Richie</a> 👋
 
+
+  </h1>
+  
 <div align="center">
+  
 ![babbittry's GitHub stats](https://life-progress-bar.vercel.app/api/?username=babbittry&show_icons=true&theme=radical)
+
 </div>
 
 <div align="center">
